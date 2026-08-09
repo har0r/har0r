@@ -1,6 +1,9 @@
 # 💫 | About Me:
 OwnerShip of [@Arthium Studio](https://discord.gg/bwEhpWqJRk), Discord Server | Being a student doesn't make me an expert, no matter how skilled I am. I hope to learn well and not waste my time.
 
+[![Profile Views](https://komarev.com/ghpvc/?username=ArthurElMasri&color=8B5CF6&style=for-the-badge&label=Profile+Views)](https://github.com/ArthurElMasri)
+[![GitHub followers](https://img.shields.io/github/followers/ArthurElMasri?style=for-the-badge&color=5865F2&logo=github&logoColor=white)](https://github.com/ArthurElMasri)
+
 ---
 
 ## 🌐 | Connect with me:
