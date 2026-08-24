@@ -7,16 +7,14 @@ Executive Leader of [TechRoad](https://discord.gg/6kjMeNpc9e), Discord Server | 
 ---
 
 ## 🌐 | Connect with me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6kjMeNpc9e)
-[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://x.com/Harr0r)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariumbusiness@gmail.com)
 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1508137411757080768)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Harr0r)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariumbusiness@gmail.com)
 ---
 
-## 📈 | What is my goal on social media?
-- I started by playing games when I was little. As I got older, I discovered a great passion for graphic design because I loved drawing, even though I wasn't very good at it. Then I started designing Discord servers and logos for other people.
-- Then one day I heard someone talking about something called "website programming." I didn't know what they meant. Did someone program YouTube? I thought I was stupid, even though I'd spent four years just sitting at the computer and had no contact with my family at all. But I realized I was very drawn to this field.
-However, I never succeeded in it, and my knowledge is very limited. People think I'm a programmer, but the more I learn, the more I feel like I'm failing. So I decided I would do what I wanted and nothing would distract me. This world seems to have been created just for me.
+## 💻 | Programmer Learns:
+[![My Skills](https://skillicons.dev/icons?i=discord,html,css,js)](https://skillicons.dev)
 
 ---
 
