@@ -1,15 +1,15 @@
 # 💫 | About Me:
-OwnerShip of [@Arthium Studio](https://discord.gg/bwEhpWqJRk), Discord Server | Being a student doesn't make me an expert, no matter how skilled I am. I hope to learn well and not waste my time.
+Executive Leader of [TechRoad](https://discord.gg/6kjMeNpc9e), Discord Server | Being a student doesn't make me an expert, no matter how skilled I am. I hope to learn well and not waste my time.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ArthurElMasri&color=8B5CF6&style=for-the-badge&label=Profile+Views)](https://github.com/ArthurElMasri)
-[![GitHub followers](https://img.shields.io/github/followers/ArthurElMasri?style=for-the-badge&color=5865F2&logo=github&logoColor=white)](https://github.com/ArthurElMasri)
+[![Profile Views](https://komarev.com/ghpvc/?username=har0r&color=8B5CF6&style=for-the-badge&label=Profile+Views)](https://github.com/har0r)
+[![GitHub followers](https://img.shields.io/github/followers/har0r?style=for-the-badge&color=5865F2&logo=github&logoColor=white)](https://github.com/har0r)
 
 ---
 
 ## 🌐 | Connect with me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bwEhpWqJRk)
-[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://x.com/ArthurElMasri)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:#)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6kjMeNpc9e)
+[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://x.com/Harr0r)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariumbusiness@gmail.com)
 
 ---
 
