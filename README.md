@@ -14,7 +14,7 @@ Executive Leader of [TechRoad](https://discord.gg/6kjMeNpc9e), Discord Server | 
 ---
 
 ## 💻 | Programmer Learns:
-[![My Skills](https://skillicons.dev/icons?i=discord,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discordjs,html,css,js,nodejs,vscode)](https://skillicons.dev)
 
 ---
 
