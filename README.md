@@ -1,5 +1,6 @@
 # 💫 | About Me:
-Executive Leader of [TechRoad](https://discord.gg/6kjMeNpc9e), Discord Server | Being a student doesn't make me an expert, no matter how skilled I am. I hope to learn well and not waste my time.
+Hello, I'm Haroun
+From `+20` — Alexandria.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=har0r&color=8B5CF6&style=for-the-badge&label=Profile+Views)](https://github.com/har0r)
 [![GitHub followers](https://img.shields.io/github/followers/har0r?style=for-the-badge&color=5865F2&logo=github&logoColor=white)](https://github.com/har0r)
